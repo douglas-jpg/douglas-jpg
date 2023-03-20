@@ -2,7 +2,7 @@
 
 
 - 📚 Estudando ciência da computação - UFC
-- ⚡Sou técnico em eletrotécnica - IFC
+- ⚡Sou técnico em eletrotécnica - IFCE
 - 🛠️ Não trabalho com nada atualmente
 
 <div style="display: inline_block">
