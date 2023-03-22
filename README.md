@@ -2,12 +2,8 @@
 
 
 - 📚 Estudando ciência da computação - UFC
-- ⚡Sou técnico em eletrotécnica - IFCE
-- 🛠️ Não trabalho com nada atualmente
-
-<div style="display: inline_block">
-  <img align="right" alt="dg" src="https://i.picasion.com/pic92/3127b94bee6ad2dae4e7fc66077bda60.gif" >
-</div>
+- ⚡Técnico em eletrotécnica - IFCE
+- 💬 Gosto de ler, dormir e jogar
 
 <picture>
 <source 
