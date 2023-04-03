@@ -6,10 +6,6 @@
 - 💬 Gosto de ler, dormir e jogar
 
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=douglas-jpg&show_icons=true&theme=dark&text_color=84cffa&title_color=4770d1&icon_color=84cffa&locale=pt-br"
-  media="(prefers-color-scheme: dark)"
-/>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=douglas-jpg&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
