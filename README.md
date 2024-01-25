@@ -2,7 +2,7 @@
 
 > - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 > - 🎓 Estudando **Ciência da computação** na <a href="https://www.ufc.br">Universidade federal do Ceará</a>.
-> - 🌱 Aprendendo mais sobre **C e JavaScript**.
+> - 🌱 Aprendendo mais sobre **Node e React**.
 > - 💬 Gosto de ler, estudar, jogar e musica.
 
 ---
