@@ -9,7 +9,7 @@
 
 ## 🚀 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,python,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,react,bootstrap,mongo,figma)](https://skillicons.dev)
 
 ---
 
