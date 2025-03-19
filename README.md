@@ -2,14 +2,14 @@
 
 > - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 > - 🎓 Estudando **Ciência da computação** na <a href="https://www.ufc.br">Universidade federal do Ceará</a>.
-> - 🌱 Aprendendo mais sobre **React** e **TypeScript**.
+> - 🌱 Aprendendo mais sobre **Node.js** e **Express**.
 > - 💬 Gosto de ler, estudar, jogar e musica.
 
 ---
 
 ## 🚀 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,react,bootstrap,mongo,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,react,express,mongo,postgres,bootstrap,tailwindcss,styledcomponents,figma)](https://skillicons.dev)
 
 ---
 
